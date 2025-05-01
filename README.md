@@ -28,11 +28,8 @@ Foi utilizado **JavaScript** principalmente para manipular o DOM e adicionar din
 
 ## Desafios Enfrentados
 
-![image](https://github.com/user-attachments/assets/82f7856c-2fc8-4fe9-8b6b-34b750b27dd6)
-
-
-
 Durante o desenvolvimento, senti mais dificuldade na parte de **JavaScript**, principalmente para entender como manipular corretamente os elementos da página e aplicar as imagens dinamicamente. Essa etapa foi importante para que eu ganhasse mais familiaridade com o DOM, arrays e funções básicas.
 
 ## Estrutura do Projeto
+![image](https://github.com/user-attachments/assets/ffb11f4c-2d88-4de8-bc23-f81a098a513f)
 
