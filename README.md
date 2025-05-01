@@ -28,6 +28,9 @@ Foi utilizado **JavaScript** principalmente para manipular o DOM e adicionar din
 
 ## Desafios Enfrentados
 
+![Uploading image.png…]()
+
+
 Durante o desenvolvimento, senti mais dificuldade na parte de **JavaScript**, principalmente para entender como manipular corretamente os elementos da página e aplicar as imagens dinamicamente. Essa etapa foi importante para que eu ganhasse mais familiaridade com o DOM, arrays e funções básicas.
 
 ## Estrutura do Projeto
